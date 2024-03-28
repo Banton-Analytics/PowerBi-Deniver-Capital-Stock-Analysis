@@ -2,8 +2,9 @@
 
 ### Project objective:
 
-Create a Stock performance report
-Conduct a comprehensive comparison between securities and their portfolios
+[Create a Stock performance report and Conduct a comprehensive comparison between securities and their portfolios](https://github.com/Banton-Analytics/PowerBi-Deniver-Capital-Stock-Analysis/blob/main/Deniver%20Capital%20Stock%20Exchange%20Report%20(1).pdf)
+
+
 
 #### Purpose of Stock analytics:
 Empower the business to monitor and evaluate their stock portfolio and performance.
